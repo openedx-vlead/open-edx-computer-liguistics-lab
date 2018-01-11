@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE23", 
+            "course": "cse23", 
             "name": "IIITH-Computation_Linguistics.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Computation Linguistics.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE23+Anytime+type@asset+block@IIITH-Computation_Linguistics.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:Virtual-Labs+cse23+Anytime+type@asset+block@IIITH-Computation_Linguistics.jpg", 
+        "import_path": "IIITH-Computation Linguistics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CSE23", 
+            "Virtual-Labs", 
+            "cse23", 
             "thumbnail", 
             "IIITH-Computation_Linguistics.jpg", 
             null
